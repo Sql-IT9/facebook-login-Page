@@ -1,0 +1,4 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_facebook_auth: ^3.3.2
